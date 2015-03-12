@@ -6,7 +6,7 @@ playground for ASDL
 이곳은 소스코드 컨트롤 시스템에 사용 경험이 없는 여러분들을 위해 마련한 놀이터 입니다.
 마음껏 놀면서 소스코드 관리하는 노하우를 익혀 보세요!
 
-## 첫번째 걸음 (나는 클릭으로만 해볼래요!)
+## 첫번째 걸음 (클릭 몇 번으로 절반 완수!)
 
 1. GUI 프로그램을 다운로드 합니다. 
   - 윈도우즈용 (https://windows.github.com/)
@@ -19,7 +19,7 @@ playground for ASDL
  - https://github.com/hyunghunny/asdl-playground.git
 
 
- ## 두번째 걸음 (개발자라면 모름지기 콘솔로 명령어를 쳐야...)
+## 두번째 걸음 (개발자라면 모름지기 콘솔로 명령어를 쳐야...)
 
 1. progit 문서의 2장을 읽습니다.
 - https://www.dropbox.com/s/sppjkw27g68qy9c/progit.ko.pdf?dl=0
